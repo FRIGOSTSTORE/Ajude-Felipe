@@ -21,8 +21,9 @@ $TXID_PREFIX = "AJD";
 // Para adicionar outro Pixel, inclua mais um bloco nesta lista.
 $FB_PIXELS = [
     [
-        'id' => '1520472869160223',
-        'access_token' => 'EAASgeovzo6wBSBCy4b5MX4V6BZB7rbhshXzQDIIquGvuQSySYcHMB8JC2X8imGEvaPOaPVYy4k4IRupPmA4ZBnskxJ7sCeukG5Nqx2NMjKBjQboZBlpx5fOcvZAZCJNgsexv1VR2C6EF2Vsc6IKuBFSAmpZCpl9MMZAi9IzSc1wZBv1ZAovKovoSHAKThLX0yugZDZD',
+        'id' => '1764387914603699',
+        'access_token' => 'EAANBwxNJqzQBScf2aQU8cS5rd6R6IGnrLG5QeTXzqPAZCcka9goemNfEXiZADtZBadwwuK3nfELEe3KknWzhjuECDTq4c7ppw7GcKxz1xIIVuQTQvIGeA3UhFAnfz6WAlKkOKYpp9beTvcPsEBXAoZCBJkNcfyAsZAu2rtGsCZC19CMSNUK3hXOzA36OYEUAZDZD
+',
     ],
     [
         'id' => '1762981111690468',
